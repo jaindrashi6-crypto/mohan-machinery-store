@@ -8,7 +8,6 @@ This repository contains the source code for the official website of **Mohan Mac
 
 - **Business Name:** Mohan Machinery Stores
 - **Owner / Proprietor:** Mr. Mohan Kumar Jain
-- **GSTIN:** `23AJZPJ6253A1Z7`
 - **Location:** Gust Ka Tazia Chauraha, Lashkar, Gwalior, MP - 474001
 - **Contact:** +91 94251 12628 | jain.mohan85@yahoo.com
 - **Operating Hours:** 11:00 AM – 7:30 PM (Closed on Tuesdays)
